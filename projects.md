@@ -27,6 +27,8 @@ layout: default
         <li>Convex</li>
         <li>Tailwind</li>
     </ul>
+    <h3>Screenshots:</h3>
+    <img src="assets/images/Notion Clone Front page.png" alt="Notion Clone Index Page" width="600" height="337" style="max-width: 100%; height: auto;" />
     <h3>Repo Link:</h3>
     <a href="https://github.com/muchcauliflower/ai-saas">https://github.com/muchcauliflower/ai-saas</a>
     <hr>
