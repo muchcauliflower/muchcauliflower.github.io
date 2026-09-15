@@ -11,6 +11,25 @@ layout: default
 </div>
 
 <div id="softdev_tab" class="tab-content active">
+    <h2>Local Notion Clone with NotebookLM Features and RAG</h2>
+    <p>
+       A Notion clone integrated with NotebookLM AI capabilities.
+       <ul>
+       <li>Smart Note Enhancement: Allows AI to directly edit, enrich, and proofread your notes.</li>
+       <li>100% Local AI: Powered by local models running through LM Studio for privacy and offline control.</li>
+       <li>RAG Integration: Filters and retrieves context from your knowledge base to ensure accurate, context-aware AI outputs.</li>
+       </ul>
+       This app combines Notion’s clean workspace UI with NotebookLM’s contextual AI assistance. Operating on a local LLM pipeline via LM Studio and powered by RAG, it enables in-editor AI content expansion and real-time grammatical corrections in your notes.
+    </p>
+    <h3>Tech Stack:</h3>
+    <ul>
+        <li>React</li>
+        <li>Convex</li>
+        <li>Tailwind</li>
+    </ul>
+    <h3>Repo Link:</h3>
+    <a href="https://github.com/muchcauliflower/ai-saas">https://github.com/muchcauliflower/ai-saas</a>
+    <hr>
     <h2>RESPONdr.</h2>
     <p>
         RESPONDr. is a prototype app designed to standardize contacts and streamline communication between a caller and an emergency responder. This is based on Singapore's ActiveSG to tackle the problems in Philippine emergency hotlines.
