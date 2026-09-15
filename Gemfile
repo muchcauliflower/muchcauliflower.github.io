@@ -1,3 +1,10 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3"s
+gem "jekyll", "~> 4.3"
+gem "erb"
+gem "csv"
+gem "logger"
+gem "jekyll-remote-theme"
+gem "jekyll-seo-tag"
+gem "jekyll-sitemap"
+gem "jekyll-feed"
