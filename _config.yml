@@ -2,7 +2,6 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: Mikhail's homepage
-description: |
-I am a computer science graduate with database adnministration as a speciality. I have a background and experience in software development and mobile development.
+description: I am a computer science graduate with database adnministration as a speciality. I have a background and experience in software development and mobile development.
 Currently aiming to kickstart my career in IT. I welcome any opportunities that await me!
 
