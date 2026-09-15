@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Projects
+# Projects & Achievements
 
 <div class="tab-buttons">
     <button class="tab-btn active" onclick="showTab('softdev_tab')">Software Development</button>
@@ -74,6 +74,9 @@ layout: default
         Awang Busters was a small game project created to participate in Hackathon "Game-On: Game Developer's Gauntlet". It is also my first introduction into Python.
         <br><br>
         The premise of the game is simply to shoot as many Aswangs (A Filipino Ghost) in the given time, instead of a normal mouse and keyboard. The game uses a Nintendo Switch's Joycon for controls, leveraging and taking advantage of its built-in gyroscope module for aiming.
+        <ul>
+        <li>Won First Runner Up due to its unique controls</li>
+        </ul>
     </p>
     <h3>Built with:</h3>
     <ul>
