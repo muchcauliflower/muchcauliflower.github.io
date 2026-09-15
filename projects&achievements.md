@@ -62,10 +62,42 @@ layout: default
 </div>
 
 <div id="data_tab" class="tab-content">
-<ul>
-<li>Project C — short description</li>
-<li>Project D — short description</li>
-</ul>
+    <h2>DP-900: Microsoft Certified: Azure Data Fundamentals - September 2025</h2>
+    <p>
+    Earned the DP-900 certification to build and validate a core foundation in Microsoft Azure’s cloud data ecosystem. Earning this credential equipped me with actionable knowledge to evaluate, select, and work with appropriate cloud database paradigms and analytics workflows based on enterprise requirements.
+    </p>
+    <ul>
+        <li>Built a strong foundation in distinguishing relational vs. non-relational structures, transactional (OLTP) vs. analytical (OLAP) processing, and batch vs. real-time streaming architectures.</li>
+        <li>Acquired clarity on selecting and configuring optimal cloud data stores across Azure SQL, managed open-source engines, and globally distributed NoSQL instances with Azure Cosmos DB.</li>
+        <li>Developed an understanding of modern enterprise storage strategies, leveraging Azure Data Lake Storage Gen2 to structure unstructured data for scalable downstream pipelines.</li>
+        <li>Gained fluency in data integration concepts, understanding how to orchestrate automated ETL/ELT pipelines with Azure Data Factory and unify enterprise analytics using Microsoft Fabric.</li>
+    </ul>
+    <p>
+    Credential ID: 7D48289016043C24
+    <br>
+    Certification number: DFH425-F7145D
+    </p>
+    <h3>Course Link:</h3>
+    <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification">https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification</a>
+    <br><br>
+    <img src="assets/images/DP-900 Cert.png" alt="DP-900 Cert" width="700" style="max-width: 100%; height: auto;" />
+    <hr>
+    <h2>IBM Data Engineering Professional Certificate | Coursera - May 2026</h2>
+    <p>
+    Completed a comprehensive 13-course program to build and demonstrate practical mastery across end-to-end data engineering infrastructure, pipeline automation, and distributed computing. Culminated the specialization by designing, deploying, and managing a complete, production-ready data engineering platform modeled after a real-world enterprise analytics scenario.
+    </p>
+        <ul>
+        <li>Designed relational database schemas, executed advanced SQL queries, and implemented core database administration strategies and data warehousing models.</li>
+        <li>Built end-to-end ETL/ELT data pipelines using Python and Shell scripting to extract, transform, and clean structured and unstructured datasets.</li>
+        <li>Leveraged Apache Spark for large-scale distributed data processing and integrated NoSQL databases to handle non-relational workloads.</li>
+    </ul>
+    <p>
+    Credential ID: RKZDHGITM033
+    </p>
+    <h3>Course Link:</h3>
+    <a href="www.coursera.org/professional-certificates/ibm-data-engineer">www.coursera.org/professional-certificates/ibm-data-engineer</a>
+    <br><br>
+    <img src="assets/images/IBM Data Engineering Cert.png" alt="DP-900 Cert" width="700" style="max-width: 100%; height: auto;" />
 </div>
 
 <div id="others_tab" class="tab-content">
