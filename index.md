@@ -6,5 +6,6 @@ layout: default
 [Projects](/projects){: .btn }
 [Contact](/contact){: .btn }
 
-# muchcauliflower.github.io
-personal portfolio showcasing projects and personal advances and achievements
+## Welcome
+
+Here you'll find my projects, experiments, and progress updates.
