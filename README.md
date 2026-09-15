@@ -37,3 +37,9 @@ Then open `http://localhost:4000` in your browser.
 - 📧 mharmikhail.canlas@gmail.com
 - 📱 +65 8861 6125
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+
+---
+
+### Plans:
+- To add mobile layout
+- More updates in my portfolio
